@@ -1,7 +1,7 @@
 # Connor Gunderson
 Fullstack Web Engineer.
 
-NodeJS/C#/Golang/React/Typescript
+Typescript and Go
 
 [Website](https://connorgunderson.vercel.app)
 
